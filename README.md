@@ -24,8 +24,8 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original-wordmark.svg" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original-wordmark.svg" alt="eclipse" width="90" height="90"/> </a> 
 <a href="https://camo.githubusercontent.com/bbdf157935473e93e7e414355593fc424ec1b8c07a2dbd00277c3c3ab6a3a507/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f353936382f353936383836362e706e67" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/bbdf157935473e93e7e414355593fc424ec1b8c07a2dbd00277c3c3ab6a3a507/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f353936382f353936383836362e706e67" alt="github" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrija-Sadhu&theme=tokyonight)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrija-Sadhu&langs_count=8)
 
 </p>
  
