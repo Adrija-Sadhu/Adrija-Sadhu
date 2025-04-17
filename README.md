@@ -1,11 +1,9 @@
 <h1 align="left">Hi 👋, I'm Adrija Sadhu</h1>
 <ul>
 <li>- 👋 I’m a final year student at KIIT, Bhubaneswar</li>
-<li>- 👀 I’m interested in Web Development and Data Analysis</li>
-<li>- 🌱 I’m currently learning Java</li>
 <li>- 📫 How to reach me : adrijasadhu2724@gmail.com</li>
 <li>- 😄 Pronouns: She/Her</li>
-<li>- ⚡ Fun fact: I dream in recursion and I wake up at the same function call</li>
+
 </ul>
 <!---
 Adrija-Sadhu/Adrija-Sadhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
